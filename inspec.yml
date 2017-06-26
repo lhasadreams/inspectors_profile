@@ -1,8 +1,8 @@
 name: inspec-workshop
 title: InSpec Profile
-maintainer: The Authors
-copyright: The Authors
-copyright_email: you@example.com
+maintainer: Adrian Daniels
+copyright: Adrian Daniels
+copyright_email: adrian@chef.io
 license: All Rights Reserved
-summary: An InSpec Compliance Profile
+summary: An exercise in building a RedHat Inspec Profile
 version: 0.1.0
